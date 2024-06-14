@@ -2,6 +2,10 @@
 
 I developed a dynamic website using React, incorporating seamless animations with Framer Motion, smooth scrolling via Locomotive Scroll, and a modern design styled with Tailwind CSS. The creation of this site was a highly rewarding experience.
 
+## Live Demo
+
+Not Mobile Responsive [here](https://ochi-design-rose.vercel.app/) .
+
 
 ## Screenshots
 
