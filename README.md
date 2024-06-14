@@ -1,4 +1,4 @@
-# Simple Weather App
+# OCHI Design
 
 I developed a dynamic website using React, incorporating seamless animations with Framer Motion, smooth scrolling via Locomotive Scroll, and a modern design styled with Tailwind CSS. The creation of this site was a highly rewarding experience.
 
